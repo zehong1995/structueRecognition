@@ -1,2 +1,6 @@
 # structueRecognition
 基于VGG-16网络实现建筑物识别，进而应用于旅游景点识别，实现智慧旅游
+
+data目录是模型训练及测试数据
+model目录是生成的模型
+src目录是代码源文件
